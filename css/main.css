@@ -1,0 +1,9 @@
+.logo{
+  background-image: url(../media/image.jpg);
+  height: 1000px;
+  width: 1000px;
+  clip-path : url(#test);
+  position: absolute;
+  top: 20vh;
+  left:20vw;
+}
